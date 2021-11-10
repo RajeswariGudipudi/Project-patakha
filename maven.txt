@@ -1,0 +1,6 @@
+maven project:
+process
+1.file ---> maven project
+2.create a simple project and "next"
+3.Dialogue box ----> group id(packagename) --->abc.sandip and artifactid(projectname) ---->mavendemo
+   
